@@ -1,6 +1,5 @@
 const nextConfig = {
-  reactStrictMode: true,
-  pageExtensions: ["page.tsx", "page.ts"]
+  reactStrictMode: true
 }
 
 export default nextConfig
